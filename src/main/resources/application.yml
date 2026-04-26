@@ -4,4 +4,4 @@ server:
 # service URLs (example)
 auth:
   service:
-    url: ${AUTH_SERVICE_URL:http://localhost:8081}
+    url: ${AUTH_SERVICE_URL:http://localhost:8080}
